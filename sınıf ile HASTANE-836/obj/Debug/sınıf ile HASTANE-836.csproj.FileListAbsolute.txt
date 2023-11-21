@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\bin\Debug\sınıf ile HASTANE-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\bin\Debug\sınıf ile HASTANE-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\bin\Debug\sınıf ile HASTANE-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf ile HASTANE-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf ile HASTANE-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf_ile_HASTANE_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf_ile_HASTANE_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf ile HASTANE-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf ile HASTANE-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf ile HASTANE-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\sınıf ile HASTANE-836\sınıf ile HASTANE-836\obj\Debug\sınıf ile HASTANE-836.pdb
